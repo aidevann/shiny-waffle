@@ -1,0 +1,22 @@
+{
+  "name": "shiny-waffle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidevann/shiny-waffle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidevann/shiny-waffle/issues"
+  },
+  "homepage": "https://github.com/aidevann/shiny-waffle#readme",
+  "dependencies": {
+    "angular-1.5-cli": "^1.6.1"
+  }
+}
